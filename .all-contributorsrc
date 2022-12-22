@@ -9,7 +9,19 @@
   "imageSize": 80,
   "commit": true,
   "commitConvention": "angular",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "louis2607",
+      "name": "louis2607",
+      "avatar_url": "https://avatars.githubusercontent.com/u/36734223?v=4",
+      "profile": "https://github.com/louis2607",
+      "contributions": [
+        "code",
+        "ideas",
+        "doc"
+      ]
+    }
+  ],
   "contributorsPerLine": 7,
   "skipCi": true
 }
