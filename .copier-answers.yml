@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier
+_commit: 4c1f889
+_src_path: gh:browniebroke/pypackage-template
+add_me_as_contributor: true
+copyright_year: '2022'
+documentation: true
+email: louis.cottereau@gmail.com
+full_name: Louis COTTEREAU
+github_username: louis2607
+initial_commit: true
+open_source_license: Not open source
+package_name: test_python_package_with_copier
+project_name: Test Python Package with copier
+project_short_description: null
+project_slug: test-python-package-with-copier
+run_poetry_install: true
+setup_github: true
+setup_pre_commit: true
+
